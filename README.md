@@ -30,6 +30,7 @@ install requirements
 pip3 install -r requirements.txt
 ```
 config the main file, add username, password, discord webhook url 
+
     Note : Make a temporary instagram account don't use your real account for security purposes
 ```
 nano main.py
