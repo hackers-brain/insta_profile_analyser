@@ -16,6 +16,10 @@ Instagram Profile Analyser using Python3
 
 Note : Make sure all requirements are satisfied...
 
+## Discord Bot
+Profile Information will be sent to Discord
+![Discord_Bot](https://github.com/hackers-brain/insta_profile_analyser/blob/master/discord.png)
+
 ## Uses
 clone this repo
 ```
